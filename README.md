@@ -8,7 +8,7 @@ It combines **FAISS** for semantic search and **BLOOM-560M** (a local Hugging Fa
 
  **Purpose:** Build a private, local Retrieval-Augmented Generation (RAG) system for document-based Q&A.  
  **Functionality:** Users can upload a PDF, ask questions, and get accurate responses based only on the document’s content.  
- **Privacy First:** All processing is local — no OpenAI API or cloud dependency.
+ **Privacy First:** All processing is local - no OpenAI API or cloud dependency.
 
 ## ⚙️ Features
 
